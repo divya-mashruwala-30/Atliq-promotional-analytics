@@ -142,7 +142,7 @@ The dashboard tracks the following business KPIs:
 
 ## 3. Product & Category Analysis Dashboard
 
-![Product & Category Analysis](screenshots/page_3.png)
+![Product & Category Analysis](screenshots/page_3.1.png)
 
 ---
 
