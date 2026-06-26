@@ -124,6 +124,27 @@ The dashboard tracks the following business KPIs:
 - ROI by category
 
 ---
+---
+
+# 📸 Dashboard Preview
+
+## 1. City & Store Performance Dashboard
+
+![City & Store Performance](screenshots/page_2.png)
+
+---
+
+## 2. Promotion Analysis Dashboard
+
+![Promotion Analysis](screenshots/page_4.png)
+
+---
+
+## 3. Product & Category Analysis Dashboard
+
+![Product & Category Analysis](screenshots/page_3.png)
+
+---
 
 # 💻 SQL Business Requests Solved
 
